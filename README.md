@@ -1,1 +1,1 @@
-A sample project for MSR Cloud
+A sample project for MSR Cloud.
